@@ -1,6 +1,6 @@
 # MERN Authentication with Email Verification
 
-![Demo App](./frontend/public/screenshot-for-readme.png)  
+![Demo App](./frontend/Screenshot 2024-10-05 083256.png)  
 
 ## Project Description
 
