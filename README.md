@@ -1,6 +1,7 @@
 # MERN Authentication with Email Verification
 
-![Demo App](./frontend/Screenshot 2024-10-05 083256.png)  
+![Screenshot 2024-10-05 083256](https://github.com/user-attachments/assets/3b8d3bbd-f364-4966-a186-d456a04e0fbf)
+
 
 ## Project Description
 
