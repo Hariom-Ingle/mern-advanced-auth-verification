@@ -1,45 +1,24 @@
-# MERN Advanced Authentication with Verification
+# MERN Authentication with Email Verification
 
 ![Demo App](./frontend/public/screenshot-for-readme.png)  
-[Video Tutorial on YouTube](https://youtu.be/pmvEgZC55Cg)  
 
-## About This Course
+## Project Description
 
-This course covers the following key concepts:
+This project implements user authentication with email verification using the MERN stack. It provides a secure signup and login process, along with email verification and password management features.
 
-- 🔧 **Backend Setup**
-- 🗄️ **Database Setup**
-- 🔐 **Signup Endpoint**
-- 📧 **Sending Verify Account Email**
-- 🔍 **Verify Email Endpoint**
-- 📄 **Building a Welcome Email Template**
-- 🚪 **Logout Endpoint**
-- 🔑 **Login Endpoint**
-- 🔄 **Forgot Password Endpoint**
-- 🔁 **Reset Password Endpoint**
-- ✔️ **Check Auth Endpoint**
+## Features
 
-- 🌐 **Frontend Setup**
-- 📋 **Signup Page UI**
-- 🔓 **Login Page UI**
-- ✅ **Email Verification Page UI**
-- 📤 **Implementing Signup**
-- 📧 **Implementing Email Verification**
-- 🔒 **Protecting Our Routes**
-- 🔑 **Implementing Login**
-- 🏠 **Dashboard Page**
-- 🔄 **Implementing Forgot Password**
-- 🚀 **Super Detailed Deployment**
+- **User Registration**: Signup with email and password.
+- **Email Verification**: Send a verification email upon registration.
+- **Login**: Authenticate users with their credentials.
+- **Forgot Password**: Reset password functionality.
+- **Secure Routes**: Protect sensitive pages from unauthorized access.
 
-## Support
+## Setup Instructions
 
-If you find this work helpful, consider supporting my efforts by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_).
+### Environment Variables
 
-## Setup
-
-### .env File
-
-Make sure to create a `.env` file in your root directory with the following variables:
+Create a `.env` file in the root directory with the following variables:
 
 ```bash
 MONGO_URI=your_mongo_uri
